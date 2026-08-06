@@ -1,6 +1,5 @@
 """
-CS-100: Computational Problem Solving with Python
-Lab 5/6 - Snake on a 50x50 Grid (nested while loops only, no lists, no functions)
+
 
 A snake starts at (0,0) and moves right or left (50/50 chance) each step,
 consuming 1 energy per move, gaining +5 energy when (row+col)%10==0.
